@@ -30,4 +30,8 @@
 {13,2,1},
 {4,"_$Data$_.Delete",12},
 {4,"_$Data$_.PredefinedDataInitialization",13},
-{4,"_$Transaction$_.Rollback",14}
+{4,"_$Transaction$_.Rollback",14},
+{5,42b9dee5-fee3-4978-b798-9a5c85f909e4,"Документ.ПриходнаяНакладная",5},
+{4,"_$Data$_.Post",15},
+{4,"_$InfoBase$_.DumpStart",16},
+{4,"_$InfoBase$_.DumpFinish",17}
