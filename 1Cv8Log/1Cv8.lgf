@@ -34,4 +34,7 @@
 {5,42b9dee5-fee3-4978-b798-9a5c85f909e4,"Документ.ПриходнаяНакладная",5},
 {4,"_$Data$_.Post",15},
 {4,"_$InfoBase$_.DumpStart",16},
-{4,"_$InfoBase$_.DumpFinish",17}
+{4,"_$InfoBase$_.DumpFinish",17},
+{5,fbcceb21-7a81-41f4-9fba-e34eea1d5d15,"Документ.Продажи",6},
+{4,"_$PerformError$_",18},
+{5,a8106e70-d31b-4852-914e-f7d2207ed93e,"РегистрСведений.Цены",7}
